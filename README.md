@@ -6,7 +6,7 @@ The program automatically takes the most recent files and displays them in a fra
 
 The frames are interactive — when touched, they glow for a few seconds.
 
-## Image and Video Demo
+### Image and Video Demo
 <a href="https://www.facebook.com/share/v/1VFDZSQupz/">
   <img src="./actual%20usage.jpg" alt="Watch the demo" width="400">
 </a>

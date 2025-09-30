@@ -11,6 +11,8 @@ The frames are interactive — when touched, they glow for a few seconds.
   <img src="./actual%20usage.jpg" alt="Watch the demo" width="400">
 </a>
 
+Click on the image to play the video.
+
 ## Features
 - Automatically loads the most recent images from [Fotomoko](https://github.com/cmmalana/Fotomoko).
 - Displays them in a “digital wall frame” style.
